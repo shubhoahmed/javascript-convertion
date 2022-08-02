@@ -11,3 +11,16 @@ while (num <= 98) {
     console.log(num);
     num++;
 }
+
+// Show all even number from 412 to 456
+var i = 412;
+for (var i = 412; i <= 456; i += 2) {
+    console.log(i);
+
+}
+
+// Show all odd number 581 to 623
+var i = 581;
+for (var i = 581; i <= 623; i += 2) {
+    console.log(i);
+}
